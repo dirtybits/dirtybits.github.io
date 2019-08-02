@@ -93,13 +93,13 @@ body {
  * ## links
  * ------------------------------------------------------------------- */
 a {
-    color: orange;
+    color: #98ff98;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
 
 a:hover, a:focus, a:active {
-    color: orange;
+    color: #98ff98;
 }
 
 a:hover, a:active {
@@ -371,7 +371,7 @@ ul.disc li::before {
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    background: orange;
+    background: #98ff98;
     position: absolute;
     left: -17px;
     top: 11px;
@@ -380,7 +380,7 @@ ul.disc li::before {
 
 dt {
     margin: 0;
-    color: orange;
+    color: #98ff98;
 }
 
 dd {
@@ -506,7 +506,7 @@ form,
 }
 
 .pace .pace-progress {
-    background: orange;
+    background: #98ff98;
     position: fixed;
     z-index: 900;
     top: 0;
@@ -549,7 +549,7 @@ form,
 }
 
 .line-scale-pulse-out > div {
-    background-color: orange;
+    background-color: #98ff98;
     width: 4px;
     height: 35px;
     border-radius: 2px;
@@ -776,7 +776,7 @@ textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-    -webkit-text-fill-color: orange;
+    -webkit-text-fill-color: #98ff98;
     transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -836,8 +836,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-    background: orange;
-    border-color: orange;
+    background: #98ff98;
+    border-color: #98ff98;
     color: #FFFFFF;
 }
 
@@ -879,12 +879,12 @@ input[type="button"].btn--primary:focus {
     border: none;
     color: white;
 	border: 1px solid #555;
-    border-top: 2px solid orange;
+    border-top: 2px solid #98ff98;
 }
 
 .btn--stroke:hover, button.btn--stroke:hover {
     border: 0.2rem solid white;
-    background-color: orange;
+    background-color: #98ff98;
     color: white;
 }
 
@@ -1108,7 +1108,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-    color: orange;
+    color: #98ff98;
 }
 
 .stats-tabs li a em {
@@ -1253,13 +1253,13 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     line-height: 1.333;
     text-transform: uppercase;
     letter-spacing: .25rem;
-    color: orange;
+    color: #98ff98;
     margin-top: 0;
     margin-bottom: 0;
 }
 
 .subhead--dark {
-    color: orange;
+    color: #98ff98;
 }
 
 
@@ -1427,7 +1427,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .slick-slider .slick-dots li.slick-active button,
 .slick-slider .slick-dots li:hover button {
-    background: orange;
+    background: #98ff98;
 }
 
 
@@ -1520,7 +1520,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     letter-spacing: .25rem;
     margin-bottom: 4.8rem;
     margin-top: .9rem;
-    color: orange;
+    color: #98ff98;
 }
 
 .header-nav p {
@@ -1658,7 +1658,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-size: 1.3rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
-    color: orange;
+    color: #98ff98;
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
 }
@@ -1864,8 +1864,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content__scroll a::before {
-    border-bottom: 2px solid orange;
-    border-right: 2px solid orange;
+    border-bottom: 2px solid #98ff98;
+    border-right: 2px solid #98ff98;
     content: '';
     display: block;
     height: 8px;
@@ -1889,7 +1889,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: block;
     width: 2px;
     height: 10.2rem;
-    background-color: orange;
+    background-color: #98ff98;
     position: absolute;
     right: 7.2rem;
     bottom: 0;
@@ -1912,7 +1912,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-social a {
-    color: orange;
+    color: #98ff98;
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
 }
@@ -1944,12 +1944,12 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     width: 33px;
     height: 33px;
     line-height: calc(33px - 4px);
-    border: 2px solid orange;
+    border: 2px solid #98ff98;
     border-radius: 50%;
 }
 
 .home-social span {
-    color: orange;
+    color: #98ff98;
     right: 4.5rem;
     font-size: 1.3rem;
     opacity: 0;
@@ -2267,7 +2267,7 @@ html.no-csstransitions .home-content__main {
 .stats h5 {
     font-family: "Poppins", sans-serif;
     margin-top: 1.8rem;
-    color: orange;
+    color: #98ff98;
     font-size: 1.8rem;
     line-height: 1.333;
     position: relative;
@@ -2421,7 +2421,7 @@ html.no-csstransitions .home-content__main {
 
 .services-list .service-icon {
     float: left;
-    color: orange;
+    color: #98ff98;
     font-size: 3.8rem;
     margin-top: -.6rem;
 }
@@ -2987,7 +2987,7 @@ html.no-csstransitions .home-content__main {
     padding: 0 2rem;
     margin: 0;
     color: #FFFFFF;
-    background: orange;
+    background: #98ff98;
 }
 
 .s-contact .form-field label::after {
@@ -2998,14 +2998,14 @@ html.no-csstransitions .home-content__main {
     margin-top: -6px;
     border-top: 5px solid transparent;
     border-bottom: 5px solid transparent;
-    border-right: 5px solid orange;
+    border-right: 5px solid #98ff98;
 }
 
 .contact__line {
     display: block;
     width: 2px;
     height: 20.4rem;
-    background-color: orange;
+    background-color: #98ff98;
     position: absolute;
     left: 50%;
     top: -10.2rem;
@@ -3032,7 +3032,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-content h5 {
     margin-top: 0;
-    color: orange;
+    color: #98ff98;
 }
 
 .contact-content input[type="email"],
@@ -3059,7 +3059,7 @@ html.no-csstransitions .home-content__main {
 .contact-content textarea:focus,
 .contact-content select:focus {
     color: #FFFFFF;
-    border-bottom: 1px solid orange;
+    border-bottom: 1px solid #98ff98;
 }
 
 .contact-content button,
@@ -3150,7 +3150,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-social li a:hover, 
 .contact-social li a:focus {
-    color: orange;
+    color: #98ff98;
 }
 
 .contact-social li:last-child {
@@ -3173,7 +3173,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .message-success {
-    color: orange;
+    color: #98ff98;
 }
 
 .message-warning i, .message-success i {
@@ -3237,7 +3237,7 @@ html.no-csstransitions .home-content__main {
 
 #contact_submit {
     background-color: transparent;
-    border-color: orange;
+    border-color: #98ff98;
     color: white;
     font-weight: bold;
 }
@@ -3250,7 +3250,7 @@ html.no-csstransitions .home-content__main {
 
 #btnContactFinished {
 	color: #fff;
-    border: 2px solid orange;
+    border: 2px solid #98ff98;
     background: transparent;
 }
 
@@ -3410,7 +3410,7 @@ footer a {
 }
 
 footer a:hover, footer a:focus, footer a:active {
-    color: orange;
+    color: #98ff98;
 }
 
 footer .row {
@@ -3502,8 +3502,8 @@ footer .row {
     top: 0;
     right: 0;
     color: #FFFFFF;
-    background: orange;
-    border-color: orange;
+    background: #98ff98;
+    border-color: #98ff98;
     padding: 0 20px;
 }
 
@@ -3660,7 +3660,7 @@ footer .row {
 .checkmark{
 	margin-left: 10px;
 	margin-right: 10px;
-	color: orange;
+	color: #98ff98;
 }
 
 .downloadWrapper {
